@@ -1,0 +1,15 @@
+body {
+  background: black;
+  color:white;
+  text-align:center;
+
+}
+p {
+  color: black;
+}
+h1 {
+  border-style:double;
+  border-width:4px;
+  color:crimson;
+  border-color:burlywood
+}
